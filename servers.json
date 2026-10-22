@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "yl-v3",
-            "address": "http://yl-anisette-v3-server-13629.containers.snapdeploy.app"
+            "address": "https://yl-anisette-v3-server-13629.containers.snapdeploy.app"
         }
     ]
 }
